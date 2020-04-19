@@ -95,6 +95,12 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 1px solid #e9e9e9;
 }
 
+#topbar .contact-info .icofont-github {
+  padding-left: 20px;
+  margin-left: 20px;
+  border-left: 1px solid #e9e9e9;
+}
+
 #topbar .social-links a {
   color: #836a61;
   padding: 4px 0 4px 20px;
@@ -141,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+/*   max-height: 40px; */
 }
 
 /*--------------------------------------------------------------
@@ -170,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #65534c;
   padding: 14px 0 15px 0;
   transition: 0.3s;
-  font-size: 13px;
+  font-size: 17px;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
 }
@@ -207,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down ul a {
   padding: 10px 20px;
-  font-size: 13px;
+  font-size: 17px;
   font-weight: 500;
   text-transform: none;
   color: #581601;

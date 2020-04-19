@@ -8,7 +8,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>꺽순월드</title>
+  <title>꺽순시스템</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -45,12 +45,15 @@
 <section id="topbar" class="d-none d-lg-block">
 	<tiles:insertAttribute name="topbar"/>
 </section>
+
   <!-- ======= Header ======= -->
   <header id="header">
 	<tiles:insertAttribute name="header"/>
   </header><!-- End Header -->
+  
 	<!-- body 내용 -->
 	<tiles:insertAttribute name="content"/>
+	
   <!-- ======= Footer ======= -->
   <footer id="footer">
 	<tiles:insertAttribute name="footer"/>

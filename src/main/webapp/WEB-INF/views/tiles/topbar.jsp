@@ -4,8 +4,9 @@
 
   <div class="container d-flex">
     <div class="contact-info mr-auto">
-      <i class="icofont-envelope"></i><a href="mailto:contact@example.com">contact@example.com</a>
-      <i class="icofont-phone"></i> +1 5589 55488 55
+      <i class="icofont-envelope"></i><a href="mailto:mingsoo0807@gmail.com">mingsoo0807@gmail.com</a>
+      <i class="icofont-phone"></i> 010 3092 3837
+      <i class="icofont-github"></i><a href="https://github.com/gguksoon">https://github.com/gguksoon</a>
     </div>
     <div class="social-links">
       <a href="#" class="twitter"><i class="icofont-twitter"></i></a>

@@ -1,9 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-  <!-- ======= Header ======= -->
-  <header id="header">
-	<!-- header 내용 -->
-  </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
