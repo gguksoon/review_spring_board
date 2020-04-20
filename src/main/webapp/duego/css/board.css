@@ -19,10 +19,11 @@
 //서브 레이아웃
 ============================================================================================*/
 #contentWrap { width: 1280px; max-width: 100%; position: relative; margin-left: auto; margin-right: auto; margin-top: 3.5rem; margin-bottom: 5rem; }
+#contentWrap { width: 1280px; max-width: 100%; position: relative; margin-left: auto; margin-right: auto; margin-top: 3.5rem; margin-bottom: 5rem; }
 #contentWrap::after { content: ""; clear: both; display: table; }
 
 .content_info { margin-bottom: 3rem; position: relative; }
-.content_info h1.title { font-size: 30px; color: #333; line-height: 1.15; letter-spacing: -0.03em; text-align: center}
+.content_info h1.title { font-size: 45px; color: #333; line-height: 1.15; letter-spacing: -0.03em; text-align: center}
 
 .content_view_tab { margin-bottom: 2.5rem; }
 .content_view_tab ul { display: table; table-layout: fixed; width: 100%; }

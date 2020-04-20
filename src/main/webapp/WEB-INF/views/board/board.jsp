@@ -58,7 +58,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/59'>‘안전하지 않으면 작업하지 않는다’… 최상위 경영가치로</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">4일 전</li>
   </ul>
 
@@ -68,7 +68,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/58'>코로나19로 유해화학물질시설 인·허가 기간 단축 첫 적용</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">4일 전</li>
   </ul>
 
@@ -78,7 +78,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/57'>환경시민단체 “유해화학물질 사업장 안전관리 강화 시급”</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">17일 전</li>
   </ul>
 
@@ -88,7 +88,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/56'>화평법·화관법·미세먼지법…대처에 인력도 시간도 부족하다</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">26일 전</li>
   </ul>
 
@@ -98,7 +98,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/55'>안전도 협력업체와 ‘동반성장’… 현안 공유하고 인센티브 제공</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.03.19(09:17)</li>
   </ul>
 
@@ -108,7 +108,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/54'>인천환경운동연합 "유해화학물질 관리법 적용 및 지원 촉구"</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.03.19(09:10)</li>
   </ul>
 
@@ -118,7 +118,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/53'>유해 화학물질, 단속과 주민 고지의무 확대 적용키로</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.03.03(09:13)</li>
   </ul>
 
@@ -128,7 +128,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/52'>경북대 화학관, 폐기화학물 폭발 사고…4명 부상</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.03.03(09:09)</li>
   </ul>
 
@@ -138,7 +138,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/50'>위험물안전관리자 없고 전열기까지…야간영업 주유소 안전불감증</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.02.07(13:42)</li>
   </ul>
 
@@ -148,7 +148,7 @@
     <li class='title' aria-title='제목'><a href='/sub0402/view/id/49'>정부·환경부,올해부터 개정된 화학물질관리법(화관법) 적용</a></li>
     <li class='W10 m-br file' aria-title='첨부파일'>
          </li>
-    <li class='W10 nowrap m-br' aria-title="작성자">되고시스템</li>
+    <li class='W10 nowrap m-br' aria-title="작성자">꺽순시스템</li>
     <li class='W10 m-br' aria-title="등록일">2020.01.31(09:17)</li>
   </ul>
 
