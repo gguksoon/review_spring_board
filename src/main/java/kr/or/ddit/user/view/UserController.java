@@ -4,12 +4,12 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@RequestMapping("user/")
+@RequestMapping("/")
 @Controller
 public class UserController {
 	
-	@RequestMapping("view")
+	@RequestMapping("login")
 	public String userView(Model model) {
-		return "user/view";
+		return "tiles/user/login";
 	}
 }

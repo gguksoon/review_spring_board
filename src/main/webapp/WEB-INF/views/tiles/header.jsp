@@ -73,7 +73,7 @@
 <!--               <li><a href="#">Drop Down 5</a></li> -->
 <!--             </ul> -->
 <!--           </li> -->
-          <li id="login"><a href="contact.html">로그인</a></li>
+          <li id="login"><a data-toggle="modal" href="#loginModal">로그인</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 

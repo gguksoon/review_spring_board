@@ -27,6 +27,9 @@
   <link href="${cp }/Flattern/assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="${cp }/Flattern/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="${cp }/Flattern/assets/vendor/aos/aos.css" rel="stylesheet">
+  
+  <!-- 되고시스템 CSS -->
+  <link href="${cp }/duego/css/board.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="${cp }/Flattern/assets/css/style.css" rel="stylesheet">
@@ -51,13 +54,62 @@
 	<tiles:insertAttribute name="header"/>
   </header><!-- End Header -->
   
-	<!-- body 내용 -->
-	<tiles:insertAttribute name="content"/>
+  <!-- ======= Hero ======= -->
+  <section id="hero">
+    <tiles:insertAttribute name="hero"/>
+  </section>
+  
+  <!-- ======= Content ======= -->
+  <tiles:insertAttribute name="content"/>
 	
   <!-- ======= Footer ======= -->
   <footer id="footer">
 	<tiles:insertAttribute name="footer"/>
   </footer><!-- End Footer -->
+
+<!-- Login Modal -->
+<div class="bootstrap-modal">
+    <div class="modal fade" id="loginModal">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="calendarModalTitle">로그인</h3>
+                </div>
+                <div class="modal-body basic-form">
+                	<form id="calendarForm">
+                		<input type="hidden" name="cal_id" id="cal_id"/>
+                		<input type="hidden" name="depart_id" value="${S_EMPLOYEE.depart_id }"/>
+                		<input type="hidden" name="emp_id" value="${S_EMPLOYEE.emp_id }"/>
+                		
+                		<div class="form-group row">
+		                    <label class="col-sm-3 col-form-label">아이디</label>
+		                    <div class="col-sm-9">
+		                    	<input type="text" class="form-control" id="cal_title" name="cal_title">
+		                    </div>
+	                    </div>
+	                    <div class="form-group row">
+		                    <label class="col-sm-3 col-form-label">비밀번호</label>
+		                    <div class="col-sm-9">
+		                    	<input type="text" class="form-control" id="cal_title" name="cal_title">
+		                    </div>
+	                    </div>
+	                    
+	                    <div class="form-group row">
+		                    <label class="col-sm-3 col-form-label">하루 종일</label>
+		                    <div class="col-sm-9">
+	                    		<input id="allDay" name="allDay" type="checkbox" style="margin-top: 10px;">
+		                    </div>
+	                    </div>
+                    </form>
+                </div>
+                    <button type="button" class="btn mb-1 btn-dark" data-dismiss="modal" style="float: right;">취소</button>
+                    <button type="button" class="btn mb-1 btn-dark" id="btnUpdateCalendar" style="float: right;">수정</button>
+                    <button type="button" class="btn mb-1 btn-dark" id="btnInsertCalendar" style="float: right;">생성</button>
+                    <button type="button" class="btn mb-1 btn-danger" id="btnDeleteCalendar" style="float: left;">삭제</button>
+            </div>
+        </div>
+    </div>
+</div> <!-- End Login Modal -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

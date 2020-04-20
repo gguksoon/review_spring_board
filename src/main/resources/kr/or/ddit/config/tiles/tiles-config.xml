@@ -8,6 +8,7 @@
 	<definition name="base" template="/WEB-INF/views/tiles/base.jsp">
 		<put-attribute name="topbar" 	value="/WEB-INF/views/tiles/topbar.jsp"/>
 		<put-attribute name="header" 	value="/WEB-INF/views/tiles/header.jsp"/>
+		<put-attribute name="hero" 	value="/WEB-INF/views/tiles/hero.jsp"/>
 		<put-attribute name="content" 	value=""/>
 		<put-attribute name="footer" 	value="/WEB-INF/views/tiles/footer.jsp"/>
 	</definition>
